@@ -12,7 +12,7 @@ Final ML Project: CNN vs. Logistic Regression for 36-class sign language classif
 **Authors:** Aviv Levi & Ion Vasile Cojocari  
 **Course:** Introduction to Machine Learning (SS 2026)  
 
-> 📄 **[Click here to view the full Technical Project Report (PDF)](./Final Project Innsbruck University - M.L.pdf)**
+> 📄 **[Click here to view the full Technical Project Report (PDF)](./Final_Project_Innsbruck_University_ML.pdf)**
 
 ---
 
